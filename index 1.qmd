@@ -4,7 +4,16 @@ author: "R P"
 format: html
 ---
 
-## Quarto
+
+# DISEÑOS EXPERIMENTALES
+## QuartO
+
+El diseño experimental es el conjunto de procedimientos y métodos utilizados para planificar, organizar y ejecutar un experimento científico, con el propósito de comprobar una hipótesis o determinar la relación causa-efecto entre variables.
+
+
+## DCA
+## DBCA
+
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
